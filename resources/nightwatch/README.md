@@ -1,4 +1,4 @@
-# NightWatch App
+# NightWatch App Lab
 
 ### Nightly Tasks 
 - Check all windows
